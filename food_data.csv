@@ -1,0 +1,8 @@
+day,students,menu_type,food_prepared,food_wasted
+Monday,320,Regular,180,25
+Tuesday,300,Regular,170,20
+Wednesday,350,Special,200,35
+Thursday,280,Regular,160,18
+Friday,400,Special,230,40
+Saturday,260,Regular,150,15
+Sunday,220,Regular,140,10
