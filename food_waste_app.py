@@ -43,6 +43,7 @@ model.fit(X[features], df[target])
 # FYP dataset, we show the fit on the available data.
 predictions = model.predict(X[features])
 accuracy_val = r2_score(df[target], predictions) * 100 
+print('R2 score:',accuracy_val)
 
 # --- 4. SIDEBAR INPUTS ---
 st.sidebar.header("📋 Input Current Details")
